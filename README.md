@@ -64,7 +64,7 @@ Outside tech, I play and watch football ⚽ **a lot!**
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,bash,html,css&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,bash,js,html,css&perline=12" />
 </p>
 
 <p align="center">
