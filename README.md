@@ -47,7 +47,7 @@ Outside tech, I play and watch football ⚽ **a lot!**
   * Making ML systems easier to run, monitor, and scale
 * **Backend & APIs**
 
-  * Python backend development using **Flask APIs**
+  * Python backend development using **Flask, Django, and FastAPI**
   * Working with databases and backend logic
   * Designing APIs that are simple to use and easy to extend
 * **AI & GenAI Projects**
