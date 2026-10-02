@@ -20,9 +20,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Engineering%20roles-4cc9f0?style=flat-square" />
-
-<br/><br/>
 </div>
 
 ---
